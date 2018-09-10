@@ -1,0 +1,15 @@
+2018-08-28-main-INFO -root      :Mobile Details deleted successfully
+2018-08-28-main-ERROR-root      :ORA-00904: "ID": invalid identifier
+
+2018-08-28-main-ERROR-root      :ORA-00933: SQL command not properly ended
+
+2018-08-28-main-INFO -root      :Mobile Details deleted successfully
+2018-08-28-main-INFO -root      :Mobile Details deleted successfully
+2018-08-28-main-ERROR-root      :Invalid column index
+2018-08-28-main-ERROR-root      :ORA-00903: invalid table name
+
+2018-08-28-main-INFO -root      :Mobile Details deleted successfully
+2018-08-28-main-ERROR-root      :Deletion failed
+2018-08-28-main-ERROR-root      :Deletion failed
+2018-09-03-main-ERROR-root      :ORA-00942: table or view does not exist
+
